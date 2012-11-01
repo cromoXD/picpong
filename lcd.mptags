@@ -1,0 +1,148 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BAIXO::1	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	32;"	d	line:32
+BARRA_DIREITA_X::12	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	38;"	d	line:38
+BARRA_DOWN::PORTEbits.RE2	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	37;"	d	line:37
+BARRA_UP::PORTEbits.RE1	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	36;"	d	line:36
+BOLA_COLUNAS::11	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	51;"	d	line:51
+BOLA_COLUNA_1::1	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	52;"	d	line:52
+BOLA_MAX_X::53	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	49;"	d	line:49
+BOLA_MAX_Y::14	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	50;"	d	line:50
+BOLA_MIN_X::0	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	46;"	d	line:46
+BOLA_MIN_Y::0	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	47;"	d	line:47
+CGRAM_cache	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	84;"	v	line:84
+CGRAM_cache_escrever	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	38;"	p	line:38	file:	signature:(void)
+CGRAM_cache_escrever	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	424;"	f	line:424	file:	signature:(void)
+CIMA::0	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	31;"	d	line:31
+COLIDIU::1	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	27;"	d	line:27
+D4::PORTDbits.RD4	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	90;"	d	line:90
+D5::PORTDbits.RD5	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	91;"	d	line:91
+D6::PORTDbits.RD6	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	92;"	d	line:92
+D7::PORTDbits.RD7	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	93;"	d	line:93
+DELAY_BOTAO::140	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	41;"	d	line:41
+DELAY_INICIO::180	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	114;"	d	line:114
+DELAY_SINC::11	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	113;"	d	line:113
+DIREITA::0	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	33;"	d	line:33
+ESQUERDA::1	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	34;"	d	line:34
+E_PIN::PORTDbits.RD3	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	103;"	d	line:103
+GOL::2	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	28;"	d	line:28
+GOLS_MAX::1	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	53;"	d	line:53
+INICIO_TMR0::31786	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	58;"	d	line:58
+INICIO_TMR1::0	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	63;"	d	line:63
+LED_AMARELO::PORTDbits.RD0	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	33;"	d	line:33
+LED_VERDE::PORTCbits.RC2	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	31;"	d	line:31
+LED_VERMELHO::PORTDbits.RD1	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	32;"	d	line:32
+NAO_COLIDIU::0	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	26;"	d	line:26
+NAO_PRESSIONADO::0	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	40;"	d	line:40
+PRESSIONADO::1	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	39;"	d	line:39
+RS_PIN::PORTDbits.RD2	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	102;"	d	line:102
+TRIS_D4::TRISDbits.TRISD4	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	96;"	d	line:96
+TRIS_D5::TRISDbits.TRISD5	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	97;"	d	line:97
+TRIS_D6::TRISDbits.TRISD6	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	98;"	d	line:98
+TRIS_D7::TRISDbits.TRISD7	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	99;"	d	line:99
+TRIS_E::TRISDbits.TRISD3	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	108;"	d	line:108
+TRIS_RS::TRISDbits.TRISD2	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	107;"	d	line:107
+XLCD_CGRAM	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.c	381;"	f	line:381	signature:(void)
+XLCD_CGRAM	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	195;"	p	line:195	signature:(void)
+XLCD_escrever_byte	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.c	241;"	f	line:241	signature:(char data)
+XLCD_escrever_byte	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	149;"	p	line:149	signature:(char data)
+XLCD_escrever_rom_string	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.c	360;"	f	line:360	signature:(const rom char *buffer)
+XLCD_escrever_rom_string	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	184;"	p	line:184	signature:(const rom char *buffer)
+XLCD_escrever_string	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.c	341;"	f	line:341	signature:(char *buffer)
+XLCD_escrever_string	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	172;"	p	line:172	signature:(char *buffer)
+XLCD_executar	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.c	194;"	f	line:194	signature:(unsigned char cmd)
+XLCD_executar	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	139;"	p	line:139	signature:(unsigned char cmd)
+XLCD_iniciar	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.c	98;"	f	line:98	signature:(void)
+XLCD_iniciar	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	130;"	p	line:130	signature:(void)
+XLCD_limpar	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.c	373;"	f	line:373	signature:(void)
+XLCD_limpar	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	190;"	p	line:190	signature:(void)
+XLCD_posicionar	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.c	291;"	f	line:291	signature:(unsigned char DDaddr)
+XLCD_posicionar	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	160;"	p	line:160	signature:(unsigned char DDAddr)
+__MY_XLCD_H	C:\ProjetosPICMINAS\ProjetoConclusao\my_xlcd.h	76;"	d	line:76
+__PC_ACTIONS_H	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	23;"	d	line:23
+__PC_CONFIG_H	C:\ProjetosPICMINAS\ProjetoConclusao\config.h	23;"	d	line:23
+__PC_CONST_H	C:\ProjetosPICMINAS\ProjetoConclusao\const.h	23;"	d	line:23
+_high_ISR	C:\ProjetosPICMINAS\ProjetoConclusao\main.c	143;"	f	line:143	signature:(void)
+_low_ISR	C:\ProjetosPICMINAS\ProjetoConclusao\main.c	151;"	f	line:151	signature:(void)
+_reset	C:\ProjetosPICMINAS\ProjetoConclusao\main.c	129;"	f	line:129	signature:(void)
+_startup	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	90;"	p	line:90	signature:(void)
+_startup	C:\ProjetosPICMINAS\ProjetoConclusao\main.c	124;"	p	line:124	file:	signature:(void)
+barra	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	40;"	s	line:40
+barra_desenhar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	267;"	f	line:267	signature:(void)
+barra_down_debounce	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	30;"	v	line:30
+barra_iniciar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	304;"	f	line:304	signature:(unsigned char y)
+barra_limpar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	238;"	f	line:238	signature:(unsigned char linha)
+barra_proxima_posicao	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	182;"	f	line:182	signature:(void)
+barra_up_debounce	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	29;"	v	line:29
+barra_y	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	270;"	l	line:270
+barras	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	63;"	v	line:63
+bola	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	49;"	s	line:49
+bola	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	65;"	v	line:65
+bola_calcular_direcao	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	147;"	f	line:147	signature:(void)
+bola_desenhar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	80;"	f	line:80	signature:(void)
+bola_iniciar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	156;"	f	line:156	signature:(void)
+bola_limpar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	138;"	f	line:138	signature:(void)
+bola_proxima_posicao	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	44;"	f	line:44	signature:(void)
+buffer	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	367;"	l	line:367
+cache_limpar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	55;"	m	line:55	struct:bola
+calcular_direcao	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	336;"	p	line:336	file:
+calcular_direcao	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	351;"	p	line:351	file:
+calcular_direcao	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	57;"	m	line:57	struct:bola
+configurar_interrupcoes	C:\ProjetosPICMINAS\ProjetoConclusao\config.c	29;"	p	line:29	file:	signature:(void)
+configurar_interrupcoes	C:\ProjetosPICMINAS\ProjetoConclusao\config.c	67;"	f	line:67	signature:(void)
+configurar_sistema	C:\ProjetosPICMINAS\ProjetoConclusao\config.c	41;"	f	line:41	signature:(void)
+configurar_sistema	C:\ProjetosPICMINAS\ProjetoConclusao\config.h	28;"	p	line:28	signature:(void)
+desenhar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	170;"	p	line:170	file:
+desenhar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	195;"	p	line:195	file:
+desenhar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	220;"	p	line:220	file:
+desenhar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	314;"	p	line:314	file:
+desenhar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	77;"	p	line:77	file:
+desenhar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	45;"	m	line:45	struct:barra
+desenhar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	59;"	m	line:59	struct:bola
+direcao_x	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	52;"	m	line:52	struct:bola
+direcao_y	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	53;"	m	line:53	struct:bola
+gols_na_direita	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	68;"	v	line:68
+gols_na_esquerda	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	68;"	v	line:68
+i	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	269;"	l	line:269
+i	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	368;"	l	line:368
+i	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	426;"	l	line:426
+i	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	88;"	l	line:88
+iniciar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	404;"	p	line:404	file:
+iniciar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	44;"	m	line:44	struct:barra
+iniciar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	58;"	m	line:58	struct:bola
+iniciar_jogo	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	394;"	f	line:394	signature:(void)
+iniciar_jogo	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	87;"	p	line:87	signature:(void)
+j	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	426;"	l	line:426
+j	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	88;"	l	line:88
+jogar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	35;"	p	line:35	file:	signature:(void)
+jogar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	410;"	f	line:410	file:	signature:(void)
+limpar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	94;"	p	line:94	file:
+limpar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	46;"	m	line:46	struct:barra
+limpar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	60;"	m	line:60	struct:bola
+main	C:\ProjetosPICMINAS\ProjetoConclusao\main.c	71;"	f	line:71	signature:(void)
+placar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	365;"	f	line:365	file:	signature:(void)
+placar	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	36;"	p	line:36	file:	signature:(void)
+preescaler_fake_timer1	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	31;"	v	line:31
+proxima_posicao	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	414;"	p	line:414	file:
+proxima_posicao	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	415;"	p	line:415	file:
+proxima_posicao	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	43;"	m	line:43	struct:barra
+proxima_posicao	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	56;"	m	line:56	struct:bola
+tratar_high_interrupt	C:\ProjetosPICMINAS\ProjetoConclusao\main.c	55;"	p	line:55	file:	signature:(void)
+tratar_high_interrupt	C:\ProjetosPICMINAS\ProjetoConclusao\main.c	82;"	f	line:82	signature:(void)
+tratar_low_interrupt	C:\ProjetosPICMINAS\ProjetoConclusao\main.c	56;"	p	line:56	file:	signature:(void)
+tratar_low_interrupt	C:\ProjetosPICMINAS\ProjetoConclusao\main.c	99;"	f	line:99	signature:(void)
+verificar_colisao	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	330;"	f	line:330	file:	signature:(unsigned char barra)
+verificar_colisao	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	37;"	p	line:37	file:	signature:(unsigned char)
+x	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	50;"	m	line:50	struct:bola
+x_char_pos	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	83;"	l	line:83
+x_rel_pos	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	86;"	l	line:86
+y	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	42;"	m	line:42	struct:barra
+y	C:\ProjetosPICMINAS\ProjetoConclusao\actions.h	51;"	m	line:51	struct:bola
+y_char_pos	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	84;"	l	line:84
+y_rel_pos	C:\ProjetosPICMINAS\ProjetoConclusao\actions.c	87;"	l	line:87
